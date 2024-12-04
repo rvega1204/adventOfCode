@@ -63,9 +63,6 @@ def calculate_similarity_score(left_list, right_list):
         print(f"Error calculating similarity score: {e}")
         return None
     
-# we need to have the lists in a file, so, I created this .txt file.
-#file_path = "C:/Users/User/Documents/cursos/adventofcode/day1/puzzleInput.txt"
-
 total_distance_result, similarity_score_result = total_distance_from_file_list()
 
 if total_distance_result is not None and similarity_score_result is not None:
