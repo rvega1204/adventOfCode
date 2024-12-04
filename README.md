@@ -13,3 +13,6 @@ For Day 2, I chose to implement the solutions using C#. This was an opportunity 
 - **Day 2**: Contains C# projects for solving the challenges.
 
 Feel free to explore the solutions and adapt them for your own learning or challenges!
+
+License
+This repository is open for learning and educational purposes. Feel free to use or modify the solutions!
